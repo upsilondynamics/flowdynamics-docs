@@ -16,7 +16,11 @@
   <body>
     <div class="content">
       <div class="header">
-             <div class="header-logo"><img src="{{site.logo | relative_url}}" alt="Logo" style="height:100%" /></div>
+             <div class="header-logo">
+               <a href="https://www.flowdynamics.ca" target="_new">
+                <img src="{{site.logo | relative_url}}" alt="Logo" style="height:100%" />
+               </a>
+            </div>
       </div>
       
       <h2 class="dev-title">{{ site.description | default: site.github.project_tagline }}</h2>
