@@ -6,4 +6,5 @@ owner_url: https://www.upsilondynamics.com
 
 relative_permalinks: false
 collections:
-  - pages
+  - main-pages
+    - getting-started.md    
