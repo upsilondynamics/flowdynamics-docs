@@ -29,3 +29,8 @@
   display:inline-block;
   width:75%;
 }
+
+.dev-title {
+  float:right;
+  margin-right:10px;
+}
