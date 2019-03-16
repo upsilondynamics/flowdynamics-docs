@@ -1,11 +1,14 @@
 ---
-name: Getting Started
-title: Get Started - FlowDynamics Developer Guide
+name: getting-started
+title: Get Started
 description: Find short, simple tutorials that let you quickly learn FlowDynamics development
 helpviewer_keywords: 
   - "Visual C#, getting started"
   - "getting started, Visual C#"
-author: mdrouillard
+
+permalink: "/pages/"
+
+ud.author: mdrouillard
 ud.date: 2019-03-15
 ud.readtime: 5
 ---
