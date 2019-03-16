@@ -1,8 +1,8 @@
+![Image](../images/app_ico_small.jpg = 300px)
+
 ## FlowDynamics Developer Documentation
 
-You can use the [editor on GitHub](https://github.com/upsilondynamics/flowdynamics-docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the FlowDynamics documentation pages, here - you will find a wealth of knowledge to help you get up and running with the platform, gain an understanding on how JFlow and FlowDynamics works, and how to structure Flows using JFlow.
 
 ### Markdown
 
@@ -25,7 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](../images/app_ico_small.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
