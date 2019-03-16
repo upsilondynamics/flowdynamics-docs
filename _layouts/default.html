@@ -25,7 +25,7 @@
 
         <ul>
           {% for page in site.pages %}          
-            <li><a href="{{ page.url }}">{{ page.name }}</a></li>
+            <li><a href="{{ page.relative_directory }}">{{ page.name }}</a></li>
           {% endfor %}
         </ul>
         
