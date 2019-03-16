@@ -16,9 +16,10 @@ readtime: 5
 
 Welcome to the FlowDynamics documentation pages, here - you will find a wealth of knowledge to help you get up and running with the platform, gain an understanding on how JFlow and FlowDynamics works, and how to structure Flows using JFlow.
 
+There are a lot of resources from sample code, tutorials and JFlow tag information and best practises.  Start with the [Getting Started](pages/getting-started) section.
+
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -40,11 +41,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/upsilondynamics/flowdynamics-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
