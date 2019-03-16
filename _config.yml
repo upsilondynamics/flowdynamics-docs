@@ -7,7 +7,7 @@ future: true
 
 collections:
   pages:
-    output: false
+    output: true
     permalink: /pages/:name
 
 defaults:
