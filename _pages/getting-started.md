@@ -14,7 +14,7 @@ readtime: 15
 ### Introduction
 Welcome to the FlowDynamics documentation pages, here - you will find a wealth of knowledge to help you get up and running with the platform, gain an understanding on how JFlow and FlowDynamics works, and how to structure Flows using JFlow.
 
-### [Tree Flow Driven Archiecture](pages/tree-architecture)
+### [Tree Flow Driven Architecture](pages/tree-architecture)
 [JFlow](pages/jflow) is the main interpreted markup language that is read by the FlowDynamics engine, it defines the structure, hierarchy and directional path to take as each step of the application is executed.  This allows a developer to not only define application behaviour, look & feel - but also a path.  For this reason, it is called a Flow.
 
 ### [JSON Derived Encoding Language](pages/jflow)
