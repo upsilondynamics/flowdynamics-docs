@@ -5,6 +5,5 @@ owner_name: Upsilon Dynamics Inc.
 owner_url: https://www.upsilondynamics.com    
 future: true
 collections:
-  main-pages:
-    name:Getting Started
-    url:getting-started.md
+  pages:
+    output: true
