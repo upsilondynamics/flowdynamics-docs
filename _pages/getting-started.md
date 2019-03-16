@@ -46,4 +46,6 @@ JSON is usually used to store encoded information, a lot of modern web technolog
 
 ### [Emedding Flows](pages/api)
 
+### [Guidelines](pages/guidelines)
+
 ### [Examples and Tutorials](pages/examples-tutorials)
