@@ -6,4 +6,5 @@ owner_url: https://www.upsilondynamics.com
 future: true
 collections:
   pages:
-    output: true
+    output: false
+    permalink: /pages/:name
