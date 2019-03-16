@@ -19,9 +19,9 @@ Welcome to the FlowDynamics documentation pages, here - you will find a wealth o
 
 ### [JSON Derived Encoding Language](pages/jflow)
 
-Due to the tree like, hierarchical nature of a Flow application - JSON is used to encode the structure, properties and pathways an applicartion will take.  As the Flow engine travels throught the JSON, the JFlow properties and nodes - parent and children, define what happens and what is presented to the end user or consumer (i.e. automated scheduler, mobile API consumption, embedded resource or web).
+Due to the tree like, hierarchical nature of a Flow application - JSON is used to encode the structure, properties and pathways an application will take.  As the Flow engine travels throught the JSON, the JFlow properties and nodes - parent and children, define what happens and what is presented to the end user or consumer (i.e. automated scheduler, mobile API consumption, embedded resource or web).
 
-JSON is usually used to store encoded information, a lot of modern web technologies is based upon it.  Generally it is used as a container for data, or metadata - which is data which describes data.  To learn more about JSON if you do not have a basis understanding, please visit [JSON.org](https://www.json.org/) for more information, in fact if you do not already know JSON we recommend you spending some time first to get familiarized.
+JSON is usually used to store encoded information, a lot of modern web technologies is based upon it.  Generally it is used as a container for data, or metadata - which is data which describes data.  To learn more about JSON if you do not have a basis understanding, please visit <a href="https://www.json.org/" target="_blank">JSON.org</a> for more information, in fact if you do not already know JSON we recommend you spending some time first to get familiarized.  In a nutshell, JSON is a commonly used, open source, widely adopted format for the interchange of data on the web.
 
 ### [Flow Debugging](pages/flowdebugging)
 
