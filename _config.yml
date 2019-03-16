@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-baseurl: /flowdynamics-docs
+baseurl: docs.flowdynamics.ca
 logo: ../images/app_ico_small.jpg
 description: Developer Resources
 owner_name: Upsilon Dynamics Inc.
