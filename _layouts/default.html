@@ -22,14 +22,6 @@
         {% endif %}
 
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <ul>
-          {% for page in site.main-pages %}          
-            <li>
-               <a href="{{ page.url }}">{{ page.name }}</a>
-            </li>
-          {% endfor %}
-        </ul>
         
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
