@@ -3,8 +3,10 @@ logo: ../images/app_ico_small.jpg
 description: Developer Resources
 owner_name: Upsilon Dynamics Inc.
 owner_url: https://www.upsilondynamics.com
-
 relative_permalinks: false
+
 collections:
-  - main-pages
-    - getting-started.md    
+  main-pages:
+    name:Getting Started
+    url:getting-started.md
+      
