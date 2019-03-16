@@ -4,7 +4,15 @@ description: Developer Resources
 owner_name: Upsilon Dynamics Inc.
 owner_url: https://www.upsilondynamics.com    
 future: true
+
 collections:
   pages:
     output: false
     permalink: /pages/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
