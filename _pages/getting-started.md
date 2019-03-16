@@ -27,7 +27,7 @@ JSON is usually used to store encoded information, a lot of modern web technolog
 
 ### [Flow Debugging](pages/flowdebugging)
 
-### [Programatic Capabilities of JFlow - Variables, Functions, Calulations, Scripting & more](pages/programming)
+### [Working with Variables, Functions, Calculations, Scripting & more](pages/programming)
 
 ### [Javascript Enabled Flow Engine](pages/javascript)
 
