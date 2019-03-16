@@ -22,7 +22,8 @@
       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       
       <div class="wrapper">
-        <div class="menu">                  
+        <div class="menu">   
+          <h2>Table of Contents</h2>
           {% for page in site.pages %}
             <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
           {% endfor %}
