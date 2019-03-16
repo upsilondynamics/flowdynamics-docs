@@ -23,7 +23,7 @@ Due to the tree like, hierarchical nature of a Flow application - JSON is used t
 
 JSON is usually used to store encoded information, a lot of modern web technologies is based upon it.  Generally it is used as a container for data, or metadata - which is data which describes data.  To learn more about JSON if you do not have a basis understanding, please visit <a href="https://www.json.org/" target="_blank">JSON.org</a> for more information, in fact if you do not already know JSON we recommend you spending some time first to get familiarized.  In a nutshell, JSON is a commonly used, open source, widely adopted format for the interchange of data on the web.
 
-### [JFlow Tag Elements Glossary](pages/jflowtags)
+### [JFlow Tag Elements](pages/jflowtags)
 
 ### [Flow Debugging](pages/flowdebugging)
 
