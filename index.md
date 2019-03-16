@@ -1,4 +1,4 @@
-![Image](../images/app_ico_small.jpg = 300px)
+![Image](../images/app_ico_small.jpg =300x)
 
 ## FlowDynamics Developer Documentation
 
