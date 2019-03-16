@@ -6,8 +6,10 @@ helpviewer_keywords:
   - "Visual C#, getting started"
   - "getting started, Visual C#"
 author: mdrouillard
-ms.author: mdrouillard
-ms.date: 03/15/2019
+date: 03/15/2019
+readtime: 03/15/2019
 ---
 # Get started with FlowDynamics Development
+{{ page.date }} &bull; Minutes to read &nbsp; {{ readtime }} <hr />
+
 Welcome to the FlowDynamics documentation pages, here - you will find a wealth of knowledge to help you get up and running with the platform, gain an understanding on how JFlow and FlowDynamics works, and how to structure Flows using JFlow.
