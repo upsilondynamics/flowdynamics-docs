@@ -40,4 +40,10 @@ JSON is usually used to store encoded information, a lot of modern web technolog
 
 ### [Flow Actions](pages/flow-actions)
 
+### [Flow Automation and Scheduling](pages/automation)
+
+### [FlowDynamics API](pages/api)
+
+### [Emedding Flows](pages/api)
+
 ### [Examples and Tutorials](pages/examples-tutorials)
