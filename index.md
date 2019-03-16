@@ -1,9 +1,22 @@
+---
+name: main
+permalink: "/"
+
+title: FlowDynamics Developer Resources
+description: Find short, simple tutorials that let you quickly learn FlowDynamics development
+helpviewer_keywords: 
+  - "Visual C#, getting started"
+  - "getting started, Visual C#"
+author: mdrouillard
+date: 2019-03-15
+readtime: 5
+---
+
 # <img src="../images/app_ico_small.jpg" alt="logo" style="width:300px;"/>
-# FlowDynamics Developer Documentation
 
 Welcome to the FlowDynamics documentation pages, here - you will find a wealth of knowledge to help you get up and running with the platform, gain an understanding on how JFlow and FlowDynamics works, and how to structure Flows using JFlow.
 
-TEST
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
