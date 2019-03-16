@@ -1,6 +1,5 @@
-<img src="../images/app_ico_small.jpg" alt="logo" style="width:300px;"/>
-
 ## FlowDynamics Developer Documentation
+<img src="../images/app_ico_small.jpg" alt="logo" style="width:300px;"/>
 
 Welcome to the FlowDynamics documentation pages, here - you will find a wealth of knowledge to help you get up and running with the platform, gain an understanding on how JFlow and FlowDynamics works, and how to structure Flows using JFlow.
 
