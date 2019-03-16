@@ -2,9 +2,4 @@ theme: jekyll-theme-minimal
 logo: ../images/app_ico_small.jpg
 description: Developer Resources
 owner_name: Upsilon Dynamics Inc.
-owner_url: https://www.upsilondynamics.com
-collections:
-  main-pages:
-    name:Getting Started
-    url:getting-started.md
-      
+owner_url: https://www.upsilondynamics.com    
