@@ -13,8 +13,7 @@ readtime: 15
 ---
 ### Getting Started
 
-There is a large amount of material on FlowDynamics and JFLow, take some time to go through the following topics to help familiarize yourself with the platform.  Once you have an understanding of what a Flow Application is - and how it works, work your way down to the
-[Examples and Tutorials](pages/examples-tutorials) where you can see some examples from which you can start designing your own Flows on the platform.
+There is a large amount of material on FlowDynamics, JFlow and the process of building Flows.  Take some time to go through the following topics to help familiarize yourself with the platform.  Once you have an understanding of what a Flow Application is - and how it works, work your way down to the [Examples and Tutorials](pages/examples-tutorials) where you can see some examples from which you can start designing your own Flows on the platform.
 
 ### [Tree Flow Driven Architecture](pages/tree-architecture)
 [JFlow](pages/jflow) is the main interpreted markup language that is read by the FlowDynamics engine, it defines the structure, hierarchy and directional path to take as each step of the application is executed.  This allows a developer to not only define application behaviour, look & feel - but also a path.  For this reason, it is called a Flow.
