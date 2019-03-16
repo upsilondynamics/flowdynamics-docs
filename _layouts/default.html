@@ -21,7 +21,7 @@
       
       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       
-      <div class="wrapper">
+      
         <div class="menu">                  
           {% for page in site.pages %}
             <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
@@ -53,7 +53,7 @@
           <p>This project is maintained by<br /><a href="{{ site.owner_url }}">{{ site.owner_name }}</a></p>
           {% endif %}        
         </footer>
-      </div>
+      
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
