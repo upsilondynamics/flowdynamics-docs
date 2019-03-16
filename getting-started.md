@@ -9,3 +9,4 @@ ms.author: mdrouillard
 ms.date: 03/15/2019
 ---
 # Get started with FlowDynamics Development
+Welcome to the FlowDynamics documentation pages, here - you will find a wealth of knowledge to help you get up and running with the platform, gain an understanding on how JFlow and FlowDynamics works, and how to structure Flows using JFlow.
