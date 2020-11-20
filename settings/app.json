@@ -1,3 +1,4 @@
 {
- Mode: "Development"
+ Mode: "Development",
+ DummyRecords: true
 }
