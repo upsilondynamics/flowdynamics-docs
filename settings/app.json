@@ -1,4 +1,8 @@
 {
- Mode: "Development",
- DummyRecords: false
+ Mode: "Development", 
+ DummyRecords: false,
+ LatestVersion: {
+   IOS: "1.2",
+   Android: "1.2"
+ }
 }
