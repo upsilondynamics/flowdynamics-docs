@@ -1,5 +1,5 @@
 {
- Mode: "Development", 
+ Mode: "Production", 
  DummyRecords: false,
  LatestVersion: {
    IOS: "1.3",
